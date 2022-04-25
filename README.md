@@ -23,7 +23,7 @@
 <a href="https://fb.com/mahfuzar27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahfuzar27" height="30" width="40" /></a>
 <a href="https://instagram.com/mahfuzar_rahman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahfuzar_rahman_" height="30" width="40" /></a>
   
-  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mahfuzar07&show_icons=true&locale=en" alt="mahfuzar07" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mahfuzar07&show_icons=true&locale=en" alt="mahfuzar07" />
 </p>
 
 
